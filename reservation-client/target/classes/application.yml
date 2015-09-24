@@ -1,0 +1,3 @@
+zuul:
+  routes:
+    reservation-service: /myservice/**
